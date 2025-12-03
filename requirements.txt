@@ -1,6 +1,7 @@
 streamlit
 requests
 pillow
+
 pandas
-scikit-learn
 numpy
+scikit-learn
